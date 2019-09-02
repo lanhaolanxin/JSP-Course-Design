@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xt.www.dao.UserContentMapper">
+    <insert id="inserContent" parameterType="userContent" useGeneratedKeys="true" keyProperty="id">
+    insert into user_content(id, u_id, title,category,content,personal,rpt_time ,img_url,nick_name,upvote,downvote,comment_num) values(#{id}, #{uId},#{title},#{category},#{content},#{personal},#{rptTime},#{imgUrl},#{nickName},#{upvote},#{downvote},#{commentNum})
+</insert>
+
+
+
+    <select id="findCategoryByUid"  resultMap="categoryMap">
+        select category,count(1) as num from user_content where u_id = #{uid} and personal = '0' group by category order by num desc
+    </select>
+
+    <resultMap type="com.xt.www.entity.UserContent" id="categoryMap">
+        <id property="id" column="id" />
+        <result property="category" column="category" />
+        <result property="num" column="num" />
+    </resultMap>
+
+    <update id="updateCommentNum">
+        update user_content set comment_num =#{commentNum} where id = #{id}
+    </update>
+    <select id="findUserContentByTitle" resultType="com.xt.www.entity.UserContent">
+        SELECT *FROM
+        user_content
+        WHERE title=#{title}
+    </select>
+    <select id="findAllNonPersonalContent" resultType="com.xt.www.entity.UserContent">
+        SELECT * FROM
+        user_content
+        where personal="0"
+    </select>
+    <select id="findAllPersonalContent" resultType="com.xt.www.entity.UserContent">
+        SELECT *from
+        user_content
+        where personal="1"
+        and u_id=#{uid}
+    </select>
+
+</mapper>
+

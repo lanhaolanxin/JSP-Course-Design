@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="xt-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22f8d6a4-15af-4d8a-914a-9217a8ad4b70" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\MavenReposity" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OaOoXNpJRpPf0EJ8c8xfbPut5X" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xt-web/src/main/webapp/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xt\xt-web\src\main\webapp\WEB-INF" />
+      <recent name="D:\xt\xt-web\src\main\resources\mapping" />
+      <recent name="D:\xt\xt-web\src\main\webapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xt\xt-web\src\main\webapp\images" />
+      <recent name="D:\xt\xt-web\src\main\resources" />
+      <recent name="D:\xt\xt-web\src\main\java\com\xt\www\entity" />
+      <recent name="D:\xt\xt-web\src\main\java\com\xt\www\service\impl" />
+      <recent name="D:\xt\xt-web\src\main\java\com\xt\www\service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xt.www.common" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xt.www.dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.22">
+    <configuration name="Play" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Play" />
+      <module name="xt-web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTest" />
+      <module name="xt-web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <module name="xt-web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSolr.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xt-web" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSolr" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSolr.testSaveAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xt-web" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSolr" />
+      <option name="METHOD_NAME" value="testSaveAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.22" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="tomcat-9.0.22" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="xt-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_xt_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="7437" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+        <EnvironmentVariables>
+          <option name="NAME" value="JAVA_TOOL_OPTIONS" />
+          <option name="VALUE" value="-Dfile.encoding=UTF-8" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="xt-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StringTest" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Play" />
+      <item itemvalue="JUnit.TestSolr.testSave" />
+      <item itemvalue="JUnit.TestSolr.testSaveAll" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.22" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSolr.testSaveAll" />
+        <item itemvalue="Application.Play" />
+        <item itemvalue="Application.Unnamed" />
+        <item itemvalue="JUnit.TestSolr.testSave" />
+        <item itemvalue="Application.StringTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22f8d6a4-15af-4d8a-914a-9217a8ad4b70" name="Default Changelist" comment="" />
+      <created>1563976816251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563976816251</updated>
+      <workItem from="1563976817938" duration="3898000" />
+      <workItem from="1563982512483" duration="4179000" />
+      <workItem from="1564019034538" duration="11881000" />
+      <workItem from="1564031298948" duration="2982000" />
+      <workItem from="1564054355826" duration="4990000" />
+      <workItem from="1564059518028" duration="1205000" />
+      <workItem from="1564060767594" duration="186000" />
+      <workItem from="1564060995843" duration="439000" />
+      <workItem from="1564061473189" duration="1980000" />
+      <workItem from="1564116779934" duration="24576000" />
+      <workItem from="1564211934566" duration="204000" />
+      <workItem from="1564212425131" duration="6754000" />
+      <workItem from="1564219421881" duration="19952000" />
+      <workItem from="1564282911716" duration="1111000" />
+      <workItem from="1564284057393" duration="11979000" />
+      <workItem from="1564310283347" duration="3976000" />
+      <workItem from="1564319562174" duration="7031000" />
+      <workItem from="1564364911063" duration="6697000" />
+      <workItem from="1564381007137" duration="2941000" />
+      <workItem from="1564395696140" duration="2711000" />
+      <workItem from="1564400244324" duration="3632000" />
+      <workItem from="1564404279424" duration="1179000" />
+      <workItem from="1564468209541" duration="598000" />
+      <workItem from="1564727592356" duration="555000" />
+      <workItem from="1564728179032" duration="23000" />
+      <workItem from="1564728226678" duration="648000" />
+      <workItem from="1564821399740" duration="14229000" />
+      <workItem from="1564906572476" duration="873000" />
+      <workItem from="1564908271081" duration="6400000" />
+      <workItem from="1564994564914" duration="363000" />
+      <workItem from="1564999798540" duration="1897000" />
+      <workItem from="1565002352806" duration="5693000" />
+      <workItem from="1565009508741" duration="145000" />
+      <workItem from="1565009782787" duration="1413000" />
+      <workItem from="1565081335297" duration="489000" />
+      <workItem from="1565086215795" duration="2343000" />
+      <workItem from="1565088812466" duration="599000" />
+      <workItem from="1565506202955" duration="3156000" />
+      <workItem from="1565509577813" duration="8000" />
+      <workItem from="1565510334183" duration="851000" />
+      <workItem from="1565512872172" duration="11849000" />
+      <workItem from="1565567586202" duration="1879000" />
+      <workItem from="1565597799986" duration="8740000" />
+      <workItem from="1565674526337" duration="3632000" />
+      <workItem from="1565680430393" duration="1563000" />
+      <workItem from="1565682385270" duration="8000" />
+      <workItem from="1565683039129" duration="11379000" />
+      <workItem from="1565770987301" duration="7625000" />
+      <workItem from="1565793414946" duration="5692000" />
+      <workItem from="1565850892923" duration="10000" />
+      <workItem from="1565857307932" duration="4194000" />
+      <workItem from="1565879209580" duration="2573000" />
+      <workItem from="1565940046412" duration="13572000" />
+      <workItem from="1566023619243" duration="1937000" />
+      <workItem from="1566033483105" duration="13000" />
+      <workItem from="1566033876233" duration="1920000" />
+      <workItem from="1566106957313" duration="16730000" />
+      <workItem from="1566134496940" duration="2249000" />
+      <workItem from="1566187753711" duration="181000" />
+      <workItem from="1566820609687" duration="609000" />
+      <workItem from="1566905593075" duration="3179000" />
+      <workItem from="1566909557202" duration="4850000" />
+      <workItem from="1566961672862" duration="5536000" />
+      <workItem from="1567050802699" duration="54000" />
+      <workItem from="1567050929486" duration="5000" />
+      <workItem from="1567335532209" duration="4453000" />
+      <workItem from="1567385707553" duration="1104000" />
+      <workItem from="1567399564329" duration="323000" />
+      <workItem from="1567424918560" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/executor/resultset/DefaultResultSetHandler.class</url>
+          <line>109</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8-sources.jar!/org/apache/ibatis/executor/resultset/DefaultResultSetHandler.java</url>
+          <line>238</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
